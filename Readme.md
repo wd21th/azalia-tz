@@ -1,0 +1,1 @@
+Generate apk: cd android && ./gradlew assembleRelease
